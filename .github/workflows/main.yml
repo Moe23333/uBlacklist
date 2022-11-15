@@ -28,14 +28,11 @@ jobs:
         git clone --depth 1 https://github.com/arosh/ublacklist-github-translation.git source/arosh/ublacklist-github-translation
     - name: Merge txt
       run: |
-        touch time.txt
-        echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
         find . -type f -name "uBlacklist.txt" -exec cat {} \;> tools/uBlacklist
-        rm time.txt
+        cat custom_rules.txt >> tools/uBlackList
         cd tools
         mv uBlacklist uBlacklist.txt
         go run main.go
-        cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
         mv uBlacklist.txt ../uBlacklist.txt -f
         cd ..
         ln -s uBlacklist.txt uBlocklist.txt
