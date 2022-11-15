@@ -1,0 +1,55 @@
+on:
+  schedule:
+  - cron: "0 2 * * *"
+  push:
+    branches:
+    - main
+jobs:
+  my_job:
+    name: QwQ
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup Go environment
+  uses: actions/setup-go@v3.3.1
+  
+    - name: Checkout
+  uses: actions/checkout@v2.5.0
+    - name: Setup Git
+      env:
+          MY_SECRET : ${{secrets.commit_secret}}
+      run: |
+        git config --global user.name ${{secrets.username}}
+        git config --global user.email ${{secrets.useremail}}
+        git config --global init.defaultBranch main
+    - name: Update source
+      run: |
+        rm -rf source
+        mkdir source
+        git clone --depth 1 https://github.com/arosh/ublacklist-stackoverflow-translation.git source/arosh/ublacklist-stackoverflow-translation
+        git clone --depth 1 https://github.com/arosh/ublacklist-github-translation.git source/arosh/ublacklist-github-translation
+    - name: Merge txt
+      run: |
+        rm uBlacklist.txt
+        rm uBlocklist.txt
+        rm tools/uBlacklist_backup.txt
+        touch time.txt
+        echo " Update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")" >> time.txt
+        find . -type f -name "*.txt" -exec cat {} \;> tools/uBlacklist
+        rm time.txt
+        cd tools
+        mv uBlacklist uBlacklist.txt
+        go run main.go
+        cat -s uBlacklist.txt | sed '/^[[:space:]]*$/d'
+        mv uBlacklist.txt ../uBlacklist.txt -f
+        cd ..
+        ln -s uBlacklist.txt uBlocklist.txt
+    - name: Commit files
+      run: |
+        git add -u
+        git reset -- source/*
+        git commit -m "ci(build): update weekly at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
+        git remote set-url --add --push origin https://$MY_SECRET@github.com/Moe23333/uBlacklist.git
+        git push origin main -f
+        echo Update complete.
+        
+        
