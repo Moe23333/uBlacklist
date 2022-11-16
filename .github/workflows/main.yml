@@ -29,7 +29,7 @@ jobs:
     - name: Merge txt
       run: |
         find . -type f -name "uBlacklist.txt" -exec cat {} \;> tools/uBlacklist
-        cat custom_rules.txt >> tools/uBlackList
+        cat custom_rules.txt >> tools/uBlacklist
         cd tools
         mv uBlacklist uBlacklist.txt
         go run main.go
