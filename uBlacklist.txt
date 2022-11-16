@@ -5,6 +5,7 @@
 *://*.9ishenzhen.com/*
 *://*.arip-photo.org/*
 *://*.athabasca-foto.com/*
+*://*.aussiepasses.com/*
 *://*.codeflow.site/*
 *://*.developreference.com/*
 *://*.dovov.com/*
@@ -36,6 +37,7 @@
 *://*.zaizhele.cn/*
 *://*.zaizhele.net/*
 *://711web.com/*
+*://8guava.com/*
 *://9to5answer.com/*
 *://ajaxhispano.com/*
 *://answer-id.com/*
@@ -194,3 +196,10 @@
 *://www.wenyanet.com/*
 *://xstack.us/*
 *://yaoply.com/*
+title/SEO57/
+title/ggseo7/
+title/google留痕/
+title/google蜘蛛池/
+title/lishengzhe/
+title/搜索留痕/
+title/霸屏推广/
