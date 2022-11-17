@@ -1,11 +1,13 @@
 
 *://*.aussiepasses.com/*
 *://*.8guava.com/*
-*://*.oschina.net/informat/*
-*://*.juejin.cn/s/*
 *://*.flipwash.pt/*
 *://*.epilatoreelettrico.it/*
 *://*.sogou.sn.cn/*
+
+*://*.oschina.net/informat/*
+*://cloud.tencent.com/developer/information/*
+*://*.juejin.cn/s/*
 
 *://*/*?q=*
 *://*/*?keyword=*
