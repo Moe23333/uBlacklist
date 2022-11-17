@@ -196,6 +196,8 @@
 *://www.wenyanet.com/*
 *://xstack.us/*
 *://yaoply.com/*
+title/(ggseo7|ggseo.com|SEO57|lishengzhe)/
+title/(谷歌|google|搜索)(留痕|蜘蛛池|霸屏推广)/
 title/SEO57/
 title/ggseo7/
 title/google留痕/
