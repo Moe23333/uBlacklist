@@ -1,5 +1,7 @@
 
 *://*.aussiepasses.com/*
-*://8guava.com/*
+*://*.8guava.com/*
+*://*.oschina.net/informat/*
+*://*.juejin.cn/s/*
 title/(ggseo7|ggseo.com|SEO57|lishengzhe)/
 title/(谷歌|google|搜索)(留痕|蜘蛛池|霸屏推广)/
