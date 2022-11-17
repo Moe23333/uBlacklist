@@ -52,6 +52,7 @@
 *://*/list.php?s=*
 *://*/so.php?s=*
 *://*/so/*
+*://*/tags/*
 *://711web.com/*
 *://8guava.com/*
 *://9to5answer.com/*
