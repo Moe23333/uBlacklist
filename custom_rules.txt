@@ -4,6 +4,7 @@
 *://*.flipwash.pt/*
 *://*.epilatoreelettrico.it/*
 *://*.sogou.sn.cn/*
+*://*.gdtujun.com/*
 
 *://www.oschina.net/informat/*
 *://juejin.cn/s/*
