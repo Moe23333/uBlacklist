@@ -124,6 +124,7 @@
 *://kotaeta.com/*
 *://lightrun.com/*
 *://living-sun.com/*
+*://m.aliyun.com/*
 *://m.aliyun.com/sswd/*
 *://microeducate.tech/*
 *://newbedev.com/*
