@@ -8,5 +8,6 @@
 *://*/list.php?s=*
 *://*/?s=*
 *://*/so/*
-title/(ggseo7|ggseo.com|SEO57|lishengzhe)/
+*://*/*vendors?q=*
+title/(ggseo7|SEO57|lishengzhe)/
 title/(谷歌|google|搜索)(留痕|蜘蛛池|霸屏推广)/
