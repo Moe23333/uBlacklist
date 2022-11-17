@@ -66,6 +66,7 @@
 *://bitcoden.com/*
 *://bleepcoder.com/*
 *://cainiaojiaocheng.com/*
+*://cloud.tencent.com/developer/information/*
 *://cndgn.com/*
 *://code-examples.net/*
 *://codegrepr.com/*
