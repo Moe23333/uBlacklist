@@ -39,6 +39,11 @@
 *://*.xstack.ru/*
 *://*.zaizhele.cn/*
 *://*.zaizhele.net/*
+*://*/?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/so.php?s=*
+*://*/so/*
 *://711web.com/*
 *://8guava.com/*
 *://9to5answer.com/*
