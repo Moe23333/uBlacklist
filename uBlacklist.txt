@@ -52,6 +52,7 @@
 *://*/list.php?s=*
 *://*/so.php?s=*
 *://*/so/*
+*://*/tag/*
 *://*/tags/*
 *://711web.com/*
 *://8guava.com/*
@@ -162,6 +163,7 @@
 *://stackovergo.com/*
 *://string.quest/*
 *://super-unix.com/*
+*://support.huaweicloud.com/topic/*
 *://syntaxfix.com/*
 *://tagsqa.com/*
 *://techhelpnotes.com/*
@@ -194,6 +196,8 @@
 *://www.giters.com/*
 *://www.gitmemory.com/*
 *://www.higithub.com/*
+*://www.huaweicloud.com/theme/*
+*://www.huaweicloud.com/zhishi/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
