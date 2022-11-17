@@ -10,6 +10,8 @@
 *://*.codeflow.site/*
 *://*.developreference.com/*
 *://*.dovov.com/*
+*://*.epilatoreelettrico.it/*
+*://*.flipwash.pt/*
 *://*.fluffyfables.com/*
 *://*.iteramos.com/*
 *://*.jike.in/*
@@ -26,6 +28,7 @@
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
 *://*.softwareuser.asklobster.com/*
+*://*.sogou.sn.cn/*
 *://*.sqlite.in/*
 *://*.tousu.in/*
 *://*.uwenku.com/*
@@ -39,6 +42,10 @@
 *://*.xstack.ru/*
 *://*.zaizhele.cn/*
 *://*.zaizhele.net/*
+*://*/*?hplusq=*
+*://*/*?keyword=*
+*://*/*?q=*
+*://*/*?s=*
 *://*/*vendors?q=*
 *://*/?s=*
 *://*/cha.php?s=*
