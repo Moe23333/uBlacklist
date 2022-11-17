@@ -8,7 +8,9 @@
 *://www.oschina.net/informat/*
 *://juejin.cn/s/*
 *://cloud.tencent.com/developer/information/*
+*://cloud.tencent.com/developer/article/*
 *://developer.aliyun.com/article/*
+*://developer.aliyun.com/devzt/*
 *://www.huaweicloud.com/theme/*
 *://www.huaweicloud.com/zhishi/*
 *://support.huaweicloud.com/topic/*
