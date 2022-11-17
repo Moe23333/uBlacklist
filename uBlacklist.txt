@@ -4,6 +4,7 @@
 *://*.55276.net/*
 *://*.8guava.com/*
 *://*.9ishenzhen.com/*
+*://*.aliyun.com/*zt/*
 *://*.arip-photo.org/*
 *://*.athabasca-foto.com/*
 *://*.aussiepasses.com/*
@@ -83,6 +84,7 @@
 *://de-vraag.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/articlezt/*
+*://developer.aliyun.com/ask/*
 *://developer.aliyun.com/devzt/*
 *://devfixes.com/*
 *://digitrain.ru/*
@@ -122,6 +124,7 @@
 *://kotaeta.com/*
 *://lightrun.com/*
 *://living-sun.com/*
+*://m.aliyun.com/sswd/*
 *://microeducate.tech/*
 *://newbedev.com/*
 *://oomake.com/*
