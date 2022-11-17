@@ -5,9 +5,10 @@
 *://*.epilatoreelettrico.it/*
 *://*.sogou.sn.cn/*
 
-*://*.oschina.net/informat/*
+*://www.oschina.net/informat/*
+*://juejin.cn/s/*
 *://cloud.tencent.com/developer/information/*
-*://*.juejin.cn/s/*
+*://developer.aliyun.com/article/*
 
 *://*/*?q=*
 *://*/*?keyword=*
