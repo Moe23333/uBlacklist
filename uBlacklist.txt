@@ -78,6 +78,7 @@
 *://curatedgo.com/*
 *://daplus.net/*
 *://de-vraag.com/*
+*://developer.aliyun.com/article/*
 *://devfixes.com/*
 *://digitrain.ru/*
 *://doraprojects.net/*
@@ -111,6 +112,7 @@
 *://itecnote.com/*
 *://itectec.com/*
 *://jtuto.com/*
+*://juejin.cn/s/*
 *://kandi.openweaver.com/*
 *://kotaeta.com/*
 *://lightrun.com/*
@@ -202,6 +204,7 @@
 *://www.linuxfixes.com/*
 *://www.mejorcodigo.com/*
 *://www.nuomiphp.com/*
+*://www.oschina.net/informat/*
 *://www.querythreads.com/*
 *://www.semicolonworld.com/*
 *://www.stackfinder.ru/*
