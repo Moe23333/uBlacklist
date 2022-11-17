@@ -9,11 +9,15 @@
 *://juejin.cn/s/*
 *://cloud.tencent.com/developer/information/*
 *://developer.aliyun.com/article/*
+*://www.huaweicloud.com/theme/*
+*://www.huaweicloud.com/zhishi/*
+*://support.huaweicloud.com/topic/*
 
 *://*/*?q=*
 *://*/*?keyword=*
 *://*/*?s=*
 *://*/*?hplusq=*
+*://*/tag/*
 *://*/tags/*
 *://*/so/*
 *://*/so.php?s=*
