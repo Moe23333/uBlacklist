@@ -2,6 +2,7 @@
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
+*://*.8guava.com/*
 *://*.9ishenzhen.com/*
 *://*.arip-photo.org/*
 *://*.athabasca-foto.com/*
@@ -13,10 +14,12 @@
 *://*.iteramos.com/*
 *://*.jike.in/*
 *://*.jonic.cn/*
+*://*.juejin.cn/s/*
 *://*.mediatagtw.com/*
 *://*.mlink.in/*
 *://*.narkive.jp/*
 *://*.ntcdoon.org/*
+*://*.oschina.net/informat/*
 *://*.overstack.in/*
 *://*.pakostnici.com/*
 *://*.qi-u.com/*
