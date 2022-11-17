@@ -4,7 +4,7 @@
 
 ### 使用方法
 
-在 [uBlacklist](https://iorate.github.io/ublacklist) 的设置中添加 `https://raw.githubusercontent.com/Moe23333/uBlacklist/main/uBlacklist.txt` 订阅规则。
+在 [uBlacklist](https://iorate.github.io/ublacklist) 设置中添加 `https://raw.githubusercontent.com/Moe23333/uBlacklist/main/uBlacklist.txt` 订阅规则。
 
 ### License
 ![GitHub](https://img.shields.io/github/license/moe23333/uBlacklist)

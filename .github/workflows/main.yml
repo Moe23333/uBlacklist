@@ -40,7 +40,7 @@ jobs:
       run: |
         git add -u
         git reset -- source/*
-        git commit -m "ci(build): update daily at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
+        git commit -m "CI Build: Update daily at $(TZ=UTC-8 date +"%Y-%m-%d"" ""%T"" UTC+0800")"
         git remote set-url --add --push origin https://$MY_SECRET@github.com/Moe23333/uBlacklist.git
         git push origin main -f
         echo Update complete.

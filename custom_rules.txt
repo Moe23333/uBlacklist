@@ -3,5 +3,10 @@
 *://*.8guava.com/*
 *://*.oschina.net/informat/*
 *://*.juejin.cn/s/*
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
 title/(ggseo7|ggseo.com|SEO57|lishengzhe)/
 title/(谷歌|google|搜索)(留痕|蜘蛛池|霸屏推广)/
