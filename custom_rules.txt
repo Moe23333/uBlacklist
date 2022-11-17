@@ -10,7 +10,7 @@
 *://cloud.tencent.com/developer/information/*
 *://cloud.tencent.com/developer/article/*
 *://*.aliyun.com/*zt/*
-*://m.aliyun.com/sswd/*
+*://m.aliyun.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/ask/*
 *://www.huaweicloud.com/theme/*
