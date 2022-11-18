@@ -26,6 +26,7 @@
 *://*.overstack.in/*
 *://*.pakostnici.com/*
 *://*.qi-u.com/*
+*://*.queqia.com/*
 *://*.shenzhenjia.cn/*
 *://*.shenzhenjia.net/*
 *://*.softwareuser.asklobster.com/*
@@ -48,6 +49,9 @@
 *://*/*?keyword=*
 *://*/*?q=*
 *://*/*?s=*
+*://*/*search?term=*
+*://*/*tag/*
+*://*/*tags/*
 *://*/cha.php?s=*
 *://*/list.php?s=*
 *://*/so.php?s=*
@@ -224,3 +228,4 @@
 *://xstack.us/*
 *://yaoply.com/*
 title/(ggseo7|SEO57|lishengzhe)/
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/
