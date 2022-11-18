@@ -5,6 +5,7 @@
 *://*.epilatoreelettrico.it/*
 *://*.sogou.sn.cn/*
 *://*.gdtujun.com/*
+*://*.codeantenna.com/*
 
 *://www.oschina.net/informat/*
 *://juejin.cn/s/*
