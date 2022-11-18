@@ -6,6 +6,7 @@
 *://*.sogou.sn.cn/*
 *://*.gdtujun.com/*
 *://*.codeantenna.com/*
+*://*.queqia.com/*
 
 *://www.oschina.net/informat/*
 *://juejin.cn/s/*
@@ -24,10 +25,11 @@
 *://*/*?keyword=*
 *://*/*?q=*
 *://*/*?s=*
-*://*/tag/*
-*://*/tags/*
+*://*/*search?term=*
+*://*/*tag/*
+*://*/*tags/*
 *://*/so/*
 *://*/so.php?s=*
 *://*/cha.php?s=*
 *://*/list.php?s=*
-title/(ggseo7|SEO57|lishengzhe)/
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/
