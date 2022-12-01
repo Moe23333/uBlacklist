@@ -227,4 +227,4 @@
 *://xstack.us/*
 *://yaoply.com/*
 title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/
-title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/*://lightrun.com/**://lightrun.com/**://lightrun.com/*
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/*://lightrun.com/**://lightrun.com/**://lightrun.com/**://lightrun.com/*
