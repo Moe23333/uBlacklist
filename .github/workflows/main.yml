@@ -28,7 +28,7 @@ jobs:
         git clone --depth 1 https://github.com/arosh/ublacklist-github-translation.git source/arosh/ublacklist-github-translation
     - name: Merge txt
       run: |
-        find . -type f -name "uBlacklist.txt" -exec cat {} \;> tools/uBlacklist
+        find source -type f -name "uBlacklist.txt" -exec cat {} \;> tools/uBlacklist
         cat custom_rules.txt >> tools/uBlacklist
         cd tools
         mv uBlacklist uBlacklist.txt
