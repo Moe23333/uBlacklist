@@ -8,6 +8,7 @@
 *://*.arip-photo.org/*
 *://*.athabasca-foto.com/*
 *://*.aussiepasses.com/*
+*://*.code2s.com/*
 *://*.codeantenna.com/*
 *://*.codeflow.site/*
 *://*.developreference.com/*
