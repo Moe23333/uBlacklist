@@ -6,5 +6,9 @@
 
 在 [uBlacklist](https://iorate.github.io/ublacklist) 设置中添加 `https://raw.githubusercontent.com/Moe23333/uBlacklist/main/uBlacklist.txt` 订阅规则。
 
+### 注意事项
+
+可能存在误杀，若介意请勿使用
+
 ### License
 [![EUPL-1.2](https://img.shields.io/badge/License-EUPL--1.2-143B76)](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt)
