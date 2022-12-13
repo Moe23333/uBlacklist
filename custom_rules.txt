@@ -20,11 +20,16 @@
 *://www.huaweicloud.com/zhishi/*
 *://support.huaweicloud.com/topic/*
 
-*://*/*?*hplusq=*
-*://*/*?*k=*
-*://*/*?*keyword=*
-*://*/*?*q=*
+*://*/*?hplusq=*
+*://*/*?k=*
+*://*/*?keyword=*
 *://*/*?s=*
+*://*/*?q=*
+*://*/*?*&hplusq=*
+*://*/*?*&k=*
+*://*/*?*&keyword=*
+*://*/*?*&s=*
+*://*/*?*&q=*
 *://*/*search?term=*
 *://*/*tag/*
 *://*/*tags/*
