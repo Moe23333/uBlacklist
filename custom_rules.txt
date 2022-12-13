@@ -32,5 +32,5 @@
 *://*/so.php?s=*
 *://*/cha.php?s=*
 *://*/list.php?s=*
-title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98)/
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98|TWKF01)/
 
