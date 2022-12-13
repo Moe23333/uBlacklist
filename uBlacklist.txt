@@ -45,10 +45,10 @@
 *://*.xstack.ru/*
 *://*.zaizhele.cn/*
 *://*.zaizhele.net/*
-*://*/*?hplusq=*
-*://*/*?k=*
-*://*/*?keyword=*
-*://*/*?q=*
+*://*/*?*hplusq=*
+*://*/*?*k=*
+*://*/*?*keyword=*
+*://*/*?*q=*
 *://*/*?s=*
 *://*/*search?term=*
 *://*/*tag/*
