@@ -62,6 +62,7 @@
 *://*/*tags/*
 *://*/cha.php?s=*
 *://*/list.php?s=*
+*://*/search/*
 *://*/so.php?s=*
 *://*/so/*
 *://711web.com/*
@@ -234,4 +235,4 @@
 *://www.wenyanet.com/*
 *://xstack.us/*
 *://yaoply.com/*
-title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98|TWKF01)/
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98|TWKF01|bailufaka|ffanyi)/
