@@ -35,9 +35,10 @@
 *://*/*search?term=*
 *://*/*tag/*
 *://*/*tags/*
+*://*/search/*
 *://*/so/*
 *://*/so.php?s=*
 *://*/cha.php?s=*
 *://*/list.php?s=*
-title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98|TWKF01)/
+title/(ggseo7|SEO57|lishengzhe|gpk3688|HT98|TWKF01|bailufaka|ffanyi)/
 
